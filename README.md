@@ -1,4 +1,3 @@
-
 ```
 Developed By : Balaji N
 Reg.no : 212220230006
@@ -103,14 +102,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
-
-
-
-
 ```
-
-
 ## Output
 ![WhatsApp Image 2022-09-25 at 9 35 36 AM](https://user-images.githubusercontent.com/75235334/192127940-d95f07c0-8d4a-4fa6-8f11-5b70e73ad274.jpeg)
 
